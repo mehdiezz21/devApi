@@ -90,13 +90,10 @@ const run = async () => {
   };
 
   const game = await inquirer.askgame();
-  console.log(joueur)
   if (Number(game.valeur) === 1){
     jeu1(joueur);
-  } else if (game.valeur === 2) {
-    jeu2(joueur);
   } else {
-    jeu3(joueur);
+    jeu2(joueur);
   }
   
 };
