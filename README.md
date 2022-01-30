@@ -118,6 +118,6 @@ De très nombreuses autres routes sont présentes dans cette Api, qui permettent
 ### Retour Perso
 
 Projet très intérressant, car je n'avais encore jamais fait d'Api, et ça m'a aidé pour mon travail en alternance (j'avais un ticket à faire sur l'Api). 
-Je sais pas si c'était parce que j'étais tout seul, mais ça m'a pris vrm pas mal de temps aha ^^. (J'aurai bien aimé avec cette journée en plus pour le dernier style de jeu).
+Je sais pas si c'était parce que j'étais tout seul, mais ça m'a pris vrm pas mal de temps aha ^^. (J'aurai bien aimé avoir cette journée en plus pour le dernier style de jeu).
 
 Amuses toi bien Romain ;)
